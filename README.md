@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Guilherme
+## Olá! Eu sou o Guilherme
  <div>
   <a href="https://github.com/wguilherme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
