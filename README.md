@@ -1,4 +1,24 @@
-## Olá! Eu sou o Guilherme
+
+</br>
+
+Hey, I'm Guilherme 👍
+
+I’m specialized in delivering high-quality web application solutions.
+
+My engineering background includes, but is not limited to, React SPAs and Node.js (REST, MongoDB, MySQL, PostgreSQL, Websockets, TDD, CI/CD ).
+
+
+</br>
+
+
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/wguilhermebr?color=%FF8DD7&label=%40wguilhermebr&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/wguilhermebr)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%FF8DD7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wguilherme)
+[![Medium](https://img.shields.io/badge/Medium-555555?logo=medium&logoColor=white%?color=FF8DD7&labelColor=555555&style=for-the-badge&)](https://wguilherme.medium.com/)
+
+
+
+<!-- ## Olá! Eu sou o Guilherme
  <div>
   <a href="https://github.com/wguilherme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,16 +33,5 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-</div>
+</div> -->
   
-  ##
- 
-<div> 
-  <a href="https://instagram.com/wguilhermebr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-    <a href="https://discord.gg/Cjst77h5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
-  <a href = "mailto:guilherme@brainyresults.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/wguilherme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/wguilherme/wguilherme/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
